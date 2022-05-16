@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# program for running ansible playbook.
 # Collection playbook tests.
 set -e
 
